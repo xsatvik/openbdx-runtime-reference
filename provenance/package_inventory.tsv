@@ -1,0 +1,162 @@
+status	size	sha256	installed_path
+included	64	87e432bcc5730cda53de3c95b247126d45455f118247189e14faef4ef7991bd9	/var/home/duck/.local/lib/python3.10/site-packages/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/__pycache__/__init__.cpython-310.pyc
+included	64	87e432bcc5730cda53de3c95b247126d45455f118247189e14faef4ef7991bd9	/var/home/duck/.local/lib/python3.10/site-packages/pd/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/__pycache__/__init__.cpython-310.pyc
+included	64	87e432bcc5730cda53de3c95b247126d45455f118247189e14faef4ef7991bd9	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/__init__.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/command_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/command_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/config_override_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/config_override_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/diagnostics_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/diagnostics_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/estop_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/estop_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/flashlight_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/flashlight_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/joint_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/joint_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/joint_zero_ref_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/joint_zero_ref_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/motor_registry_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/motor_registry_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/observation_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/observation_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/policy_action_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/policy_action_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/policy_start_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/policy_start_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/response_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/response_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/robot_control_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/robot_control_pb2_grpc.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/verbose_pb2.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/__pycache__/verbose_pb2_grpc.cpython-310.pyc
+included	4725	bc56214f3454cd9fad7cd2ed78876e7f0dcdccc9a52e6df8396a39af2def3635	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/command_pb2.py
+included	895	a446b9f1c8235803ee0606e9842db5839981b41e6fcf70756cf143eb63728099	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/command_pb2_grpc.py
+included	1601	89424ababf6a5d55423f3d5f3c217b8169491dd46aac67c475bbfecd61378064	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/config_override_pb2.py
+included	903	d2d5da76903054b88d5a2a91626a5bbae3a5d3d5ea624fbaba250d43934d724a	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/config_override_pb2_grpc.py
+included	4777	160ee1daae3284251b373d9b1d2030eac92327c82128a27913cbfd224af44192	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/diagnostics_pb2.py
+included	899	f27e42d5d31829b1c58c948dd5161132412cab13e6442387e68b5cb121d8b859	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/diagnostics_pb2_grpc.py
+included	2715	b8efebe699fc53c3dad25f8bdf6834fab7e17e66e244165f50db1163c1fc799a	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/estop_pb2.py
+included	893	9ee01e641aac2b44b19a6e6fd312863a5902578296e8dbc803eebfa2970b5763	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/estop_pb2_grpc.py
+included	1327	8642853a2b337ad844a631a487d98df23fc11ef5d543defd24c7eab903aa72b4	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/flashlight_pb2.py
+included	898	eb3ef303fc2058dc7b32d5dd85c7310e4f2e4ed1e3fa4052881abb92299ac292	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/flashlight_pb2_grpc.py
+included	1503	3dbfd6566490069e109303b7e264d198990ee0675fbf8cdc00c2af3972c5e017	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/joint_pb2.py
+included	893	7f0fe414c9e35859f7f6639d2d494e47d0c92cf859a8abf35435978a7db298ae	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/joint_pb2_grpc.py
+included	1444	42a3590a6eb87ebd38af996948a9a52e488375e0153ad0885113e20b03366528	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/joint_zero_ref_pb2.py
+included	902	40307ee21d2c5fc053b34b1e3f3d0499718e15cf9a91d3a2b7208679435f8bd3	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/joint_zero_ref_pb2_grpc.py
+included	5872	a3f19933fcb715adf413f1cdf674b475176651b2919fa7e57b14d6d9c6fc9f32	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/motor_registry_pb2.py
+included	902	d35f4c536f85f54096fde28ccf165b6942baa3a9766e041e44e82d259afb21fc	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/motor_registry_pb2_grpc.py
+included	2208	094cdf7306f9b07fba1caf3e38c83deb76662bfc97086e4fbc6261b39d6d696f	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/observation_pb2.py
+included	899	ae188f31d8462fc881a7ff1acdd94936adc014f2ad29b1024aeaaa6952258709	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/observation_pb2_grpc.py
+included	1485	8d445b5b65f15c810c3fe5f93c1c77dfabf77a3776649d21b3b664a8526ea0b8	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/policy_action_pb2.py
+included	901	0ca229752b768158138a7fcd1d865b45d014336c2fafeccf6447d3fe167235b0	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/policy_action_pb2_grpc.py
+included	1349	297db406f017cc8869bcdda921a20ea41c29d3b048fb3d206bd2b78af635a786	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/policy_start_pb2.py
+included	900	f48405d876b164ce6a26b52b9c51ede5c18602a4c38fedf9fde0ae1de1774bf2	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/policy_start_pb2_grpc.py
+included	4183	fcb5b6698934513a457cbf78f3d22b7fe6ae3741bca6ac92fc81357a57c237a1	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/response_pb2.py
+included	896	850cefbad397656874e6b46fd3b1ed31ad048db91f9dd69ef065616d5d76e0e2	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/response_pb2_grpc.py
+included	2386	195cfe98f005c705841af8b0a3ad0bba506aa34f978c84d7aaedd6cbbbdce409	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/robot_control_pb2.py
+included	901	4e79cd76cf0c9e51a9b181f34015bb6366faec55f4f54e942b1c4770c4cf2866	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/robot_control_pb2_grpc.py
+included	1933	12c5a80871f86f8ee49c57dc8c447549077eea696af4c53753389a4599709e91	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/verbose_pb2.py
+included	895	d8f951aa67bbdf27e17169f938bbb9f5628871672a648baf629384c1b21c50e3	/var/home/duck/.local/lib/python3.10/site-packages/pd/api/verbose_pb2_grpc.py
+included	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/__init__.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/duck_drive.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/duck_sense.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/duck_triggers.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/emote_player.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/kyberpad_config.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/motor_limits.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/onnx_infer.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/onnx_infer_org.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/osc_protocol.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/puddle_joy.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/__pycache__/scripted_commands.cpython-310.pyc
+included	1271	52d443da389b878e4e4cd3ca4773a26c84bc675d181273e0680aea192c2d6ae9	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/8bitdo.yaml
+included	1269	4aaef847a0f19f84c68086e3b8f428daf1a6a8aaeb16d4c77e0e4693abbba4ca	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/8bitdoSF30Pro.yaml
+included	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/__pycache__/__init__.cpython-310.pyc
+included	4013	9ab511f2333d691343fb175a03c8ca152b8f864a556e932ff23cf58940adab8f	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/frsky-usb.yaml
+included	3834	dbe9bcf55a5cc8fa83ab7211063815819acc52d2e5535af9b25d1b9d85ee954e	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/frsky.yaml
+included	4226	b0c3db51130a91ccef732aa89f9676e84c7bfe79015e2886944138655a1207a2	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/puddleduckstick.yaml
+included	2010	1edcbc1c795af6b9e948bf9437c7c5176d3897a34e5eddf8e1ade06aac656a74	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/steamdeck.yaml
+included	620	e5fba20df7c02e5b31df364f4e4b07920a97e2dc8654e32dc60f1b043e27cf53	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/controllers/steamduckstick.yaml
+included	102401	a162482347a5f3ef0a44d4b8e8039eb53189e0dc86ddd3e0ab63ca6a7ad681c7	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/duck_drive.py
+included	20793	c79031ab29bf106bac6e6c2a91a611fc868e9aa7d7d95a2cc95b0eb5ed48b444	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/duck_sense.py
+included	27192	3c1863da5f740208096698ec15bebad7a5c914ce8f36f8d47fa7d4a635969327	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/duck_triggers.py
+included	50133	cafa34db2b315f1556822eedfab0ecf817fc5cead66fb494d8b9ab8ffe3a80ce	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/emote_player.py
+included	12851	62ae94305ff67272e277aeb92626e91b118ab1746d04451029604d8cb0108cae	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/emotes/dip_wiggle.json
+included	39219	e906f29d8c53bd7fb7b958daf4fc19d8fbe8be87203b664addfe5ce0736cb462	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/emotes/happy_dance_v3.json
+included	10081	afdd43fdd1c6747a2e4f2fe5b609ed59e3f6adf250b07bb87aa6de5a8ef8e7c9	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/emotes/shake_it_off.json
+included	10164	da139fd158e547b7e9191979351d34a63c1e703ab6c9b592afdb718af366fb04	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/kyberpad_config.py
+included	2930	98848e49fb87743bceae066a19709ad1c949705638c9c248600d187c75d8c990	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/motor_limits.py
+included	17170	d30e4b5c4e6015b0537bb060fde857017ee380b6c696a3520f562a79131b3c07	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/onnx_infer.py
+included	7912	5ebbe32c99dd4d308ab8cac8b43dc099e3ec047cdc0cd26598797bd0cc4a5e48	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/onnx_infer_org.py
+included	16562	fcbba653db7a05d6284f00d89b61ab692d9661f10e4d3e2d80a974643e3d6fff	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/osc_protocol.py
+included	98882	f6608b32180164ead7f9a87a5c973588b1e954e6f55172ac21daf87d56f07b6c	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/puddle_joy.py
+included	5168	12e7e4f412e7b8c10a432ad3618becbf1a3391767d9346b5fd8ae732500635c8	/var/home/duck/.local/lib/python3.10/site-packages/pd/common/scripted_commands.py
+included	36487	ffa3740da2942e1669b48e1773e599f5aa06fe11da6da23d280be6f3f756cc3c	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/API.py
+included	7263	c28a08f7e4e5b346b0673e5a2257165ae6b8a22fe81105bbdf9b6ee1771fc53d	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/RLSimWalk.py
+included	69109	c62871d1c31cc343c2b5c3c4447aef1929aac1e60ece26d9e11dafc001369a10	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/RLWalk.py
+included	12804	b967a6f432de5bfaa3e1eb3d33fc3dc60450325d834ea12f4c7a3c0dea6ad8cb	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/RLWalkScripted.py
+included	21	cd0f70514a4c0380a833638e70b065b4403df9b190f00a462ecbbda2afdba949	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/API.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/RLSimWalk.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/RLWalk.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/RLWalkScripted.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/__init__.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/broadcast_state.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/commander.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/controller_interactive.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/estimate_obs_noise.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/get_joint_zero.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/openbdx_sync.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/recording_store.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/robot_pack_index.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/set_joint_zero.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/walk.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/web_admin.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/web_auth.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/web_manifest.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/web_settings.cpython-310.pyc
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/__pycache__/wifi_security.cpython-310.pyc
+included	389599	b7cd077c97fc9e21c1c1e340e0725aa4045ac54e5900adab5894e84eb1f507fa	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/broadcast_state.py
+included	3721	4df79bccf6a6ceb4fba477f57d559ab63b20d97ff6626052cec47cf99f2010ad	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/commander.py
+included	31993	b35c4d5ce6eec564265ffd92088c03eee29c18522944f2ceee158fcd8e475746	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/controller_interactive.py
+included	24783	bc83869d093289147f846b56948533eee5397a2e1c52a502df88b497f726da4b	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/estimate_obs_noise.py
+included	856	307b08cc2e9f26ea5212387fc0cab4b6bb1eb53156bc93bb31ff3c8b2d3c2cd0	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/get_joint_zero.py
+included	53105	1559c27933a10a0992f3b7648690251783238d0016fcbbe8a4eabe1dde7559c5	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/openbdx_sync.py
+included	30518	0b4ba1f06076d16e772b7f2588247ab3141eb4f625e0a5c89da4f38d9c75aa64	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/recording_store.py
+included	9870	e61ba63eac483392fb579a20263fdfac37a2acb3cc1e94974c0f5bd365fbd280	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/robot_pack_index.py
+included	423	b5941c2d1c900e275fa1f9cdf897ddb6cb1525082fe3d1ad3f818932a3eecfcb	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/set_joint_zero.py
+included	120	e246bdc2d6eb9a5e779dcaf77b95b2fae969916f440aeb1916b824d64fbee427	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/templates/duck_actions.yaml
+included	8224	56d231af0aad592f861a4446571e265e40a2723624fc201ac00e0d6b5c09f117	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/templates/duck_control.yaml
+included	1598	b9f7dfbf8f515b67e1f4abb323f34c5bd6869e7667713a38f7e91b017cbcece3	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/templates/duck_triggers.yaml
+included	2654	a77a8a07e605b0473cd4b39443718ee7e69f23069062926bcc3fb3af9e160fee	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/walk.py
+included	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/__init__.py
+excluded		-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/__pycache__/__init__.cpython-310.pyc
+included	423833	fa6fb7e9fc9665579df3e41be4930af862c4bc1189c2cff1838c058d45d275d6	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/app.js
+included	15665	c579242cfea8012c02e22fd172bda7f6e6aa17fd3b2eb38fae98f67a05c0df00	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/duck_eye_blink.js
+included	8705	0d2b28b701165e699405500dd789c1947bed59b4cd9a8aa610612de8b8dc6300	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/duck_snapshot.js
+included	95212	b1a7b216c1bef4707d5495e7e84c4ab6dda7af0cd4b6f9410919d9f8c0ef3843	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/index.html
+included	602	de48af08fd9ccaf82b57e9747c7c7f8fae03127a5154346aa9bda2124132b637	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/manifest.webmanifest
+excluded	16698	-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/puddleduck-icon-192.png
+excluded	69811	-	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/puddleduck-icon-512.png
+included	81374	39c4fa2251580f7f8b93ee28673bb56cd683e01144b21ddc630e4f610b13c8b6	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/style.css
+included	10095	26f97dd538924e3ae65fc85aa22b297c86066502b4d58ebf23a5e3cac187b7bc	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/urdf_zip.js
+included	1069	0a1df3a083d0c010560aa342e87959c8c1070e6fd54545741f083f22d0c8b551	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/vendor/fflate/LICENSE.txt
+included	90922	b7ca4450b19559a1d50eb381adcee94b82449674be4cd17789d9beba7e6122a1	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web/vendor/fflate/browser.js
+included	89808	828cb515aea17489d3e28ccdb029d4e6ffd293896d0b41be8fcacf102e78c0eb	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web_admin.py
+included	12595	595402003b98be206693bdbbd4ddccb28b1ea01186aeb97f1d7a46fc32fbf018	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web_auth.py
+included	11904	e2fe2e11cb40825b0e6c0a2b9d9ac0506930e5eda53cf9b949f508c26fc1c7a0	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web_manifest.py
+included	65147	ccec46ea061c97b368018163b139377ef7f7cfd16486d4474b1e70e16584d753	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/web_settings.py
+included	2673	8ccad4918cd07aaae00ff3697d21ccfffb7c5f6fc0c0a9a40a87c5d77ba3e8e1	/var/home/duck/.local/lib/python3.10/site-packages/pd/runtime/wifi_security.py
+included	4	ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/INSTALLER
+included	4240	e5d21f0dfce3e6914cc5c85a7ae5fea29fa4c5bcb4132aeccad66330e1d02881	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/METADATA
+included		9fd0991d175b0a88b3485a6757b61194b3ca11311d6829ee918e4a747e3e59c2	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/RECORD
+included	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/REQUESTED
+included	91	2b6eb4118ce7cd7b09601406aa623c553c4476265836f0d9c16f5c061f7efcc0	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/WHEEL
+included	115	7d2419ff340bb12a55251227cc98b1e5fbe2baf9222eee7582618db458d7e049	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/direct_url.json
+included	3	7e45febd994b4ca44d985dd6d5eea8ea5255455317657876bdf3111e6a67ee1d	/var/home/duck/.local/lib/python3.10/site-packages/pd_bdx_runtime_cpu-1.1.0.dist-info/top_level.txt

@@ -1,0 +1,18 @@
+Package: bdx-orin-flasher
+Version: 1.0.0-3
+Architecture: amd64
+Maintainer: OpenBDX <hello@openbdx.org>
+Installed-Size: 24816
+Depends: ca-certificates, usbutils, tar, xz-utils, openssh-client, iproute2, iptables, sudo, libc6, libgl1, libx11-6, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxxf86vm1, hicolor-icon-theme
+Filename: pool/stable/main/b/bdx-orin-flasher/bdx-orin-flasher_1.0.0-3_amd64.deb
+Size: 10371718
+MD5sum: a5e5cdbc12e161b510d2dea869fb0d39
+SHA1: bc3faf80fc5336697e73cfb19fa3d7c7a8eecc8f
+SHA256: ebebf18c701a89f933c2c239be6bbe8190ea34b3d43de75b5a59b3c449350619
+Section: utils
+Priority: optional
+Homepage: https://openbdx.org/downloads/orin-flasher
+Description: BDX Orin Flasher
+ A graphical and command-line utility for downloading, verifying, and flashing
+ OpenBDX firmware onto supported NVIDIA Jetson Orin devices from a Linux host.
+

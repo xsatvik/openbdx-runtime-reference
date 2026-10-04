@@ -1,0 +1,17 @@
+{
+  "origin": "OpenBDX",
+  "url": "https://apt.openbdx.org",
+  "architecture": "amd64",
+  "signing_key_fingerprint": "0DB4749A71DC281ACA1F762B32D79F23F189A010",
+  "generated_at": "2026-08-03T06:33:51.524158+00:00",
+  "suites": {
+    "stable": {
+      "package": "bdx-orin-flasher",
+      "version": "1.0.0-3"
+    },
+    "beta": {
+      "package": "bdx-orin-beta-flasher",
+      "version": "1.0.0-3"
+    }
+  }
+}

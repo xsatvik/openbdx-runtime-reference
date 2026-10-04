@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: OpenBDX
+Label: OpenBDX
+Suite: stable
+Codename: stable
+Date: Mon, 03 Aug 2026 06:33:45 GMT
+Architectures: amd64
+Components: main
+Description: Stable OpenBDX packages
+MD5Sum:
+ d89af917de37662948963e77c2ae3df3              867 main/binary-amd64/Packages
+ bbe5f35d4b27427bd814bee1ce562f04              568 main/binary-amd64/Packages.gz
+ c49edd19ce0a3396a20e2d5b7181fc4b              652 main/binary-amd64/Packages.xz
+SHA1:
+ 643199ce65a5c1b74890d94bc8ccf7f0a772cbfe              867 main/binary-amd64/Packages
+ e06d8ddf3f2b001a11a951527d3cd9d7ed00644a              568 main/binary-amd64/Packages.gz
+ 87158de8808b93745c9ddfd5593a7e4f2c93a452              652 main/binary-amd64/Packages.xz
+SHA256:
+ cca4ee09721c3208d1c9d7e6f6db365716989ed5580133634ef7f47421a93768              867 main/binary-amd64/Packages
+ c16b15a84cf5a68726d81a36d6301a47d9e7089475025ee516ecdd156444281b              568 main/binary-amd64/Packages.gz
+ a9f017f49784973c7a3f489bcebf78fee2ceb50ed443fd61e75c080305aa3991              652 main/binary-amd64/Packages.xz
+SHA512:
+ 6917ee482f9eda2c8c12a4cb49c4f2c0ae7d790bcf5142cb2c7f3f18ff78c2e445dbb90677ff90fdc939a1163981a3458fc2cf2fe7b92e3368f890859c1eae0a              867 main/binary-amd64/Packages
+ e903959a2624e2afef87e125729ae6554d93181124058b3e4be122480c400e4e32232fa66f9b2f58504c6ea67438d6818b5b4228aa6b3170fcb426c9dca88a16              568 main/binary-amd64/Packages.gz
+ 3c8766f7a25087909e145766306a95206d13c96aa7ab9d25505218a9f61ac23d85b48b3e4e7d994fd8120883021d099e1dbccd11891d3a21a3f42ea07f237386              652 main/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEcxyAOh7i62tfXXI/WhqKqkh2URsFAmpwNkkACgkQWhqKqkh2
+URtKGg/+IgrFZWtFy4lSgBS2hvDOwcerHslwIvGdlMOIq7AFmm95BZ67VCfo4zax
+LafC6qBzHCZv4VYdsW9QAW5FWaDsz4193wPsj8GZvFBlrYE6+38t5GVIzzH6HONi
+hqPrp1NlQe2C+JYdSrK2rHXyiML9paBHBJZXXcVa4ty4Hq3WC091k4PPG4Y+lsiN
+dsptCyqxDBqVs7vxNLWczuKDqOs9lo6yjQmQEILyoKfULwYJ4L3QfEViMPjRwcGy
+FD5iVwF1W0OYAFcu/1dMjGVnlc1gbwMq0t45mdJKV/9anVORVYk5rDGpLsNqxBmh
+mrsOvjwo/QCTugkbzIebH3I/50RxBl7H0KI3TPZ7FZ/LwPxbWKfIWig10GpSTIiq
+z6LVx/JLWkryQE7p8Iagyi0QGEOVPDDD/cDPJw1Yl5f3ScDHx+bst+juehgFSBAX
+L2MD0lpDxqXjI4GjnwD6Nd4xpJEATm0pfe7wXmetIEu5EV5/9zEafg4ntaWtch4I
+9iFsjI+9z+a2qeGkFY4ATfq/rLwZgP9LYeA1XD52TxCMoAwhuxgTG7XG5rR6uBSR
+RduLTvD90WLwlk1PfTLU21IitDNLVybgVX5Pi8pt+y/Q0llqS1D1zK8YG2o8SG9L
+vFO7hl+nTyC3MTdgt7b6frjTSBm76hOIJ9+3jC9ayxPMgOPG9H4=
+=O6RM
+-----END PGP SIGNATURE-----

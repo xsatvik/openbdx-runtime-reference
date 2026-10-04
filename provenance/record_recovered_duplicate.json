@@ -1,0 +1,6 @@
+{
+  "path": "var/home/duck/.local/lib/python3.10/site-packages/__init__.py",
+  "method": "Identical bytes copied from directly extracted pd/__init__.py; size and SHA256 match installed distribution RECORD for this exact target path. Target archive entry was not itself retained.",
+  "record_hash": "sha256=h-QyvMVzDNpT3jyVskcSbUVFXxGCRxieFPrvTveZG9k",
+  "size": 64
+}

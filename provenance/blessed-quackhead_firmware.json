@@ -1,0 +1,19 @@
+{
+  "environment": "teensy41",
+  "firmware_sha256": "8049809fd49585896fdcf25f4eaa0a1fd4d3e3e716e0fdffe5015fb8f2cfdab8",
+  "firmware_size": 705741,
+  "gitversion": {
+    "branch": "main",
+    "full_semver": "1.1.0-16",
+    "major_minor_patch": "1.1.0",
+    "sha": "b9dc6b07053f7edb209edc4e161b2b3ae976fab6",
+    "short_sha": "b9dc6b0",
+    "source": "GitVersion"
+  },
+  "informational_version": "1.1.0-16+Branch.main.Sha.b9dc6b07053f7edb209edc4e161b2b3ae976fab6",
+  "project": "QuackHead",
+  "schema": 2,
+  "source_revision": "b9dc6b07053f-dirty-90ff03f8aa79",
+  "source_sha256": "90ff03f8aa799ec35aabb96db4e5aeb0d4660396c68313f9a4b02ac4b8c10c33",
+  "version": "1.1.0-16"
+}

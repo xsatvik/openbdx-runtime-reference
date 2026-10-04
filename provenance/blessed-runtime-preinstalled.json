@@ -1,0 +1,9 @@
+{
+  "bundle_id": "9a80440f22c8adb8038d1f16680fd61dd028a3c6de39b347bf833a679b58f71a",
+  "installed_at": 1785743690.193343,
+  "installed_home": "/var/home/duck",
+  "package": "pd-bdx-runtime-cpu",
+  "schema": 1,
+  "sha256": "427d56492a5d39f41f9c59a737d5ea5bb22b5a539ad224a05fa3e812f8bfcd9c",
+  "version": "1.1.0"
+}

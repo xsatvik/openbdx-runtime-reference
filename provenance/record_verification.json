@@ -1,0 +1,1137 @@
+{
+  "distribution": "pd-bdx-runtime-cpu",
+  "version": "1.1.0",
+  "included_files": 94,
+  "hashed_files_verified": 93,
+  "mismatches": 0,
+  "excluded_files": 67,
+  "entries": [
+    {
+      "path": "__init__.py",
+      "declared_hash": "sha256=h-QyvMVzDNpT3jyVskcSbUVFXxGCRxieFPrvTveZG9k",
+      "declared_size": "64",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/__init__.py",
+      "declared_hash": "sha256=h-QyvMVzDNpT3jyVskcSbUVFXxGCRxieFPrvTveZG9k",
+      "declared_size": "64",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__init__.py",
+      "declared_hash": "sha256=h-QyvMVzDNpT3jyVskcSbUVFXxGCRxieFPrvTveZG9k",
+      "declared_size": "64",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/command_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/command_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/config_override_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/config_override_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/diagnostics_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/diagnostics_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/estop_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/estop_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/flashlight_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/flashlight_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/joint_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/joint_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/joint_zero_ref_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/joint_zero_ref_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/motor_registry_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/motor_registry_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/observation_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/observation_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/policy_action_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/policy_action_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/policy_start_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/policy_start_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/response_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/response_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/robot_control_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/robot_control_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/verbose_pb2.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/__pycache__/verbose_pb2_grpc.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/api/command_pb2.py",
+      "declared_hash": "sha256=vFYhTzRUzZ-tfNLteIdufw3NzMmlLm34OWo5ry3vNjU",
+      "declared_size": "4725",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/command_pb2_grpc.py",
+      "declared_hash": "sha256=pEa58cgjWAPuBgbphC21g5mBtB5vz3B1bPFD62NygJk",
+      "declared_size": "895",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/config_override_pb2.py",
+      "declared_hash": "sha256=iUJKur9qXVVCPz1fPCF7gWlJHdRqrGfEdbv-zWE3gGQ",
+      "declared_size": "1601",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/config_override_pb2_grpc.py",
+      "declared_hash": "sha256=0tXadpAwVLiNWiqRYmpbuuOl09XqYk-6uiUNQ5NNcko",
+      "declared_size": "903",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/diagnostics_pb2.py",
+      "declared_hash": "sha256=Fg7h2q4yhCUbNz2bHSAw6skjJ8ghKKJ5E8v9Ikr0QZI",
+      "declared_size": "4777",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/diagnostics_pb2_grpc.py",
+      "declared_hash": "sha256=8n5C1dMYKbHFjJSN1RYRMkEsqxPmRCOH5otcsSHYuFk",
+      "declared_size": "899",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/estop_pb2.py",
+      "declared_hash": "sha256=uO_r5pn8U8Pa0l-L32g0-rfhfmbiRBZfUNsRY8H8eZo",
+      "declared_size": "2715",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/estop_pb2_grpc.py",
+      "declared_hash": "sha256=nuAeZBqsK0Sxmm5v0xKGOlkCV4KW6NvIA-6_opcLV2M",
+      "declared_size": "893",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/flashlight_pb2.py",
+      "declared_hash": "sha256=hkKFOiszethEpjGkh9mN8j_BHvXVQ979JMfquQOqcrQ",
+      "declared_size": "1327",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/flashlight_pb2_grpc.py",
+      "declared_hash": "sha256=6z7zA_wgWNx7MtXdhccxDk8uTtHj-kBSiBq7kimawpI",
+      "declared_size": "898",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/joint_pb2.py",
+      "declared_hash": "sha256=Pb_WVmSQBp4QkwO34mTRmJkO4Gdfv4zcAMKvOXLF4Bc",
+      "declared_size": "1503",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/joint_pb2_grpc.py",
+      "declared_hash": "sha256=fw_kFMnjWFn39mOdLUlOR9DJLPhZqKvzVDWXin2ymK4",
+      "declared_size": "893",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/joint_zero_ref_pb2.py",
+      "declared_hash": "sha256=QqNZCm64fr04r5lpSKmlLkiDdeAVOtCIURPiCwM2ZSg",
+      "declared_size": "1444",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/joint_zero_ref_pb2_grpc.py",
+      "declared_hash": "sha256=QDB-4h0sX8BTs0sePz0EmXGOFc-akdOityCGeUNfi9M",
+      "declared_size": "902",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/motor_registry_pb2.py",
+      "declared_hash": "sha256=o_GZM_y3Fa30E_HN9nS0dRdmUbKRn6flexTW2cb8nzI",
+      "declared_size": "5872",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/motor_registry_pb2_grpc.py",
+      "declared_hash": "sha256=019MU2-F9UCW_eKMzxZbaUK6o6l2bgQeROgtJZr7Ifw",
+      "declared_size": "902",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/observation_pb2.py",
+      "declared_hash": "sha256=CUzfcwb5sH-6HK8-OMg963ZmK_yXCG5PvGJhs51taW8",
+      "declared_size": "2208",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/observation_pb2_grpc.py",
+      "declared_hash": "sha256=rhiPMdhGL8iBp_8azdlJNq3AFPKtKbECSuqqaVIlhwk",
+      "declared_size": "899",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/policy_action_pb2.py",
+      "declared_hash": "sha256=jURbW2XxXIEMP-X5PBx336v3ejd2ZJ0hs7ZkqFJuoLg",
+      "declared_size": "1485",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/policy_action_pb2_grpc.py",
+      "declared_hash": "sha256=DKIpdSt2gVgTin_NHYZbRdAUM2wvr-zPZEfT_hZyNbA",
+      "declared_size": "901",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/policy_start_pb2.py",
+      "declared_hash": "sha256=KX20BvAXzIhpvN2pIaIOpBwp07BI-z0ga9K3ivY1p4Y",
+      "declared_size": "1349",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/policy_start_pb2_grpc.py",
+      "declared_hash": "sha256=9IQF2HaxZM5qJrUrnFHt5cGGAqTDj-35_eCuHeF3S_I",
+      "declared_size": "900",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/response_pb2.py",
+      "declared_hash": "sha256=_LW2aYk0UTpFfL9489Irf-auN0G8pqyS_IE1elfCN6E",
+      "declared_size": "4183",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/response_pb2_grpc.py",
+      "declared_hash": "sha256=hQzvutOXZWh05rRv07HtMa0Ejbkfndae8GVhbV124OI",
+      "declared_size": "896",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/robot_control_pb2.py",
+      "declared_hash": "sha256=GVz-mPAFxwWEGviwo60LulBqo0-XjITXqu3Wy7vc5Ak",
+      "declared_size": "2386",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/robot_control_pb2_grpc.py",
+      "declared_hash": "sha256=TnnNds8MnlGpsYHzQBW7Y2b67FX09U6UKxxHcMTPKGY",
+      "declared_size": "901",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/verbose_pb2.py",
+      "declared_hash": "sha256=EsWoCHH4b47knFfcjER1SQd-6mlq9MU3UziaRZlwnpE",
+      "declared_size": "1933",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/api/verbose_pb2_grpc.py",
+      "declared_hash": "sha256=2PlRqme73yfhcWn5OLu59WKIcWcqZIuvYpOEwbIcUOM",
+      "declared_size": "895",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/__init__.py",
+      "declared_hash": "sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU",
+      "declared_size": "0",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/duck_drive.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/duck_sense.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/duck_triggers.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/emote_player.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/kyberpad_config.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/motor_limits.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/onnx_infer.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/onnx_infer_org.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/osc_protocol.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/puddle_joy.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/__pycache__/scripted_commands.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/controllers/8bitdo.yaml",
+      "declared_hash": "sha256=UtRD2jibh45OTNPKR3OibIS8Z10YEnPgaArqGSwtauk",
+      "declared_size": "1271",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/8bitdoSF30Pro.yaml",
+      "declared_hash": "sha256=Sq74R6Dxn4TGgIbjuPQo2vGmqKrrFtTHfg5Gk6u7pMo",
+      "declared_size": "1269",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/__init__.py",
+      "declared_hash": "sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU",
+      "declared_size": "0",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/common/controllers/frsky-usb.yaml",
+      "declared_hash": "sha256=mrUR8jM9aRND-xdaA8jKFSuPhkpVbpMv8jz1iUCtq48",
+      "declared_size": "4013",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/frsky.yaml",
+      "declared_hash": "sha256=2-m89VpcyPqDq3IRBjgVgZrMUtLlU1r5sl0bnYXulU4",
+      "declared_size": "3834",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/puddleduckstick.yaml",
+      "declared_hash": "sha256=sMPbURMKkczvcyqon5Z26Ex7_nkBXiiGlEE4ZVoSB6I",
+      "declared_size": "4226",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/steamdeck.yaml",
+      "declared_hash": "sha256=Hty8HHla9rnpSL-UN8fFF204l6NOXt344a3gaqxlanQ",
+      "declared_size": "2010",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/controllers/steamduckstick.yaml",
+      "declared_hash": "sha256=5fuiDffALlsx3zZPTksHkgqX4tyGVOMtxg8bBD4nz1M",
+      "declared_size": "620",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/duck_drive.py",
+      "declared_hash": "sha256=oWJII0el8-8KRNS46AOetTGJ4NyG3dPgq2PKanrWgcc",
+      "declared_size": "102401",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/duck_sense.py",
+      "declared_hash": "sha256=x5Axqym_EGusbmwqkaYR_IaOmqfX2VosyVsOte1ItEQ",
+      "declared_size": "20793",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/duck_triggers.py",
+      "declared_hash": "sha256=PBhj2l90AggJZpjsFb6616XJFM6PNvjUf6fUpjWWkyc",
+      "declared_size": "27192",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/emote_player.py",
+      "declared_hash": "sha256=yvo02ysxXxVWgi7t-rDs-Bf8XOrWb7SU2Lmrj_46gM4",
+      "declared_size": "50133",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/emotes/dip_wiggle.json",
+      "declared_hash": "sha256=Yq6UMF_2cnLid665JibpGxGKsXRtBEUQKWBNjLAQjK4",
+      "declared_size": "12851",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/emotes/happy_dance_v3.json",
+      "declared_hash": "sha256=6QbynYxTvX-3uVja9PwZ2PvovocgO2ZK3f5c4HNstGI",
+      "declared_size": "39219",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/emotes/shake_it_off.json",
+      "declared_hash": "sha256=r91D_dHGdHouTy_ltgntWeP2rfJQsHu4eqbeWo7458k",
+      "declared_size": "10081",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/kyberpad_config.py",
+      "declared_hash": "sha256=2hOf0VjlR7fpGRl5NR00pjwecDq2ybWSr9txivNm-wQ",
+      "declared_size": "10164",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/motor_limits.py",
+      "declared_hash": "sha256=mISOSfuHdDvOrgZqGXCa0clJcFY4ycJIYA0YfHXYyZA",
+      "declared_size": "2930",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/onnx_infer.py",
+      "declared_hash": "sha256=0w5LXE5gFbBTe7Bg_ehXAX7jgLbGlqNSD1YqeRMbPAc",
+      "declared_size": "17170",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/onnx_infer_org.py",
+      "declared_hash": "sha256=XrvjLJndTTCKuMrItD3AmePsBHzcDNJlmHl70MxKXkg",
+      "declared_size": "7912",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/osc_protocol.py",
+      "declared_hash": "sha256=_LumU9t6BdYoTwDYm2GraS2WYfEOTT4tgKl0ZD49b_8",
+      "declared_size": "16562",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/puddle_joy.py",
+      "declared_hash": "sha256=9mCLMhgBZOrX-ah6XJc1iLHpVOb1UXKsIdr4fVbwe2w",
+      "declared_size": "98882",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/common/scripted_commands.py",
+      "declared_hash": "sha256=Eufk9BLnuMEKQyrTYYvsvxozkXZ9k0a1_YrnMlAGNcg",
+      "declared_size": "5168",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/API.py",
+      "declared_hash": "sha256=_6N0DaKULhZptI4Xc-WZ9aoG_hHabaI9KAvm8_dWzDw",
+      "declared_size": "36487",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/RLSimWalk.py",
+      "declared_hash": "sha256=wooI9-Tls0awZz5aIlcWWua4oi_oEQW735tu4XcfxT0",
+      "declared_size": "7263",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/RLWalk.py",
+      "declared_hash": "sha256=xihx0cMcw0PCtcPERHrvGSmqweYOzibZ4R2vwAE2mhA",
+      "declared_size": "69109",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/RLWalkScripted.py",
+      "declared_hash": "sha256=uWem9DLeW_qj4es9M_w9xgRQMl2DTqEvTHo8Depq2Ms",
+      "declared_size": "12804",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/__init__.py",
+      "declared_hash": "sha256=zQ9wUUpMA4CoM2OOcLBltEA9-bGQ8ApGLsu9oq_bqUk",
+      "declared_size": "21",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/__pycache__/API.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/RLSimWalk.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/RLWalk.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/RLWalkScripted.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/broadcast_state.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/commander.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/controller_interactive.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/estimate_obs_noise.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/get_joint_zero.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/openbdx_sync.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/recording_store.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/robot_pack_index.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/set_joint_zero.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/walk.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/web_admin.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/web_auth.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/web_manifest.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/web_settings.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/__pycache__/wifi_security.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/broadcast_state.py",
+      "declared_hash": "sha256=t80HfJf8niHBweNA4HJapARaxU5ZAK2rWJToTrH1B_o",
+      "declared_size": "389599",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/commander.py",
+      "declared_hash": "sha256=TfebzPamzrT7pHf1fVWatjsg2X_2YmBSzsR8-Z8gEK0",
+      "declared_size": "3721",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/controller_interactive.py",
+      "declared_hash": "sha256=s1xNXObuxWQmX_2SCIwD7uKcGFIpRPLO7hWPzY5HV0Y",
+      "declared_size": "31993",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/estimate_obs_noise.py",
+      "declared_hash": "sha256=vIOGnQkyiRR_hGtWlIUz7uU5ei4cUqUC34i0l_cm2ks",
+      "declared_size": "24783",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/get_joint_zero.py",
+      "declared_hash": "sha256=MHsIzC6fJupSEjh_wMq0trsetTFWvJO7Mf88iy08LNA",
+      "declared_size": "856",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/openbdx_sync.py",
+      "declared_hash": "sha256=FVnCeTOhCgmS87dkhpAlF4MjjQAW_LvopOq-Hd51WcU",
+      "declared_size": "53105",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/recording_store.py",
+      "declared_hash": "sha256=C0uh8GB20W53K38liCR6sxQetPYl4KXInaTzjZx1qmQ",
+      "declared_size": "30518",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/robot_pack_index.py",
+      "declared_hash": "sha256=5humPqxIM5L7V5ogJj_frDeirLPMHpSXTA9b02X70oA",
+      "declared_size": "9870",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/set_joint_zero.py",
+      "declared_hash": "sha256=tZQcLRyQDidfofnN-JfdtssVJQgv49GtP4GJMqPuz8s",
+      "declared_size": "423",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/templates/duck_actions.yaml",
+      "declared_hash": "sha256=4ka9wtbrml53ncr3e5Wy-ulpkW9ECusZFrgk1k--5Cc",
+      "declared_size": "120",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/templates/duck_control.yaml",
+      "declared_hash": "sha256=VtIxrwqtWS-GGkRGVx4mXkCicjYk_CAawA4Na1wJ8Rc",
+      "declared_size": "8224",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/templates/duck_triggers.yaml",
+      "declared_hash": "sha256=ufffv49RW2fh9KuzI_NMW9aGnnZncTo49-kbAXy87OM",
+      "declared_size": "1598",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/walk.py",
+      "declared_hash": "sha256=p3qKB-YFsEc81LOUQ3GO5-afIwaQYpJrzD-zr54WD-4",
+      "declared_size": "2654",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/__init__.py",
+      "declared_hash": "sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU",
+      "declared_size": "0",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/__pycache__/__init__.cpython-310.pyc",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": false,
+      "reason": "compiled Python cache"
+    },
+    {
+      "path": "pd/runtime/web/app.js",
+      "declared_hash": "sha256=-m-36fyWZVed8-Qb5JMK-GLEvBGJws_xg4wFjUXSddY",
+      "declared_size": "423833",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/duck_eye_blink.js",
+      "declared_hash": "sha256=xXkkLP6oASwC4i_Rcr2n9uaqF_07LrOPrpj2egXA3wA",
+      "declared_size": "15665",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/duck_snapshot.js",
+      "declared_hash": "sha256=DSsotwEWXmmUBVAN14nBlHvtWbTNmoqmEGEt6LjcYwA",
+      "declared_size": "8705",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/index.html",
+      "declared_hash": "sha256=saeyFsG-9HB9VJXn6ExKtt2nrwzUtvlBCRnZ-MDvOEM",
+      "declared_size": "95212",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/manifest.webmanifest",
+      "declared_hash": "sha256=3kivCP2cyvgrV-l0fHx_j64DEnpRVDRqqb2iEkEytjc",
+      "declared_size": "602",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/puddleduck-icon-192.png",
+      "declared_hash": "sha256=nAtGVFgmQgzMx0lSCb1x5RbCxe7fPWstB73R25qAKNE",
+      "declared_size": "16698",
+      "included": false,
+      "reason": "PNG icon, binary media omitted"
+    },
+    {
+      "path": "pd/runtime/web/puddleduck-icon-512.png",
+      "declared_hash": "sha256=_AFOfr1y35S3aW1xEGZzM6hFvwrItipCo-cvxcNOVYk",
+      "declared_size": "69811",
+      "included": false,
+      "reason": "PNG icon, binary media omitted"
+    },
+    {
+      "path": "pd/runtime/web/style.css",
+      "declared_hash": "sha256=OcT6IlFYD3-Lk-4oZzu1bNaD4BFEsh3cYw5PYQsTyLY",
+      "declared_size": "81374",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/urdf_zip.js",
+      "declared_hash": "sha256=Jvl91TiSTjrmX8haoispfIYGZQK01Y6_I6XjysGHt7w",
+      "declared_size": "10095",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/vendor/fflate/LICENSE.txt",
+      "declared_hash": "sha256=Ch3zoIPQwBBWCqNC6HlZyMEHDm_VRUV0Hwg_ItDItVE",
+      "declared_size": "1069",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web/vendor/fflate/browser.js",
+      "declared_hash": "sha256=t8pEULGVWaHVDrOBrc7pS4JElnS-TNF3idm-un5hIqE",
+      "declared_size": "90922",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web_admin.py",
+      "declared_hash": "sha256=goy1Fa6hdInT4ozNsCnU5v_Sk4ltC0G-j8rPEC54wOs",
+      "declared_size": "89808",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web_auth.py",
+      "declared_hash": "sha256=WVQCADuYviBmk7271N3MsoseoBGGrrl_HXpG_DL78Bg",
+      "declared_size": "12595",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web_manifest.py",
+      "declared_hash": "sha256=4v4uEctAglsObAornZrAUGkw5e2lPPm5SfUIwm_Bx6A",
+      "declared_size": "11904",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/web_settings.py",
+      "declared_hash": "sha256=zOxG6gYcl7NoAYFjsTk3fvf3z9FkhtRHSx5w4WWE11M",
+      "declared_size": "65147",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd/runtime/wifi_security.py",
+      "declared_hash": "sha256=jMrUkYzQeqrgD_NpfSHM__t8X2_AwKmkCofF13uj6OE",
+      "declared_size": "2673",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/INSTALLER",
+      "declared_hash": "sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg",
+      "declared_size": "4",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/METADATA",
+      "declared_hash": "sha256=5dIfDfzj5pFMxchaeuX-op-kxby0EyrsytZjMOHQKIE",
+      "declared_size": "4240",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/RECORD",
+      "declared_hash": "",
+      "declared_size": "",
+      "included": true,
+      "verification": "RECORD itself is unhashed"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/REQUESTED",
+      "declared_hash": "sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU",
+      "declared_size": "0",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/WHEEL",
+      "declared_hash": "sha256=K260EYznzXsJYBQGqmI8VTxEdiZYNvDZwW9cBh9-_MA",
+      "declared_size": "91",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/direct_url.json",
+      "declared_hash": "sha256=fSQZ_zQLsSpVJRInzJix5fviuvkiLu51gmGNtFjX4Ek",
+      "declared_size": "115",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    },
+    {
+      "path": "pd_bdx_runtime_cpu-1.1.0.dist-info/top_level.txt",
+      "declared_hash": "sha256=fkX-vZlLTKRNmF3W1e6o6lJVRVMXZXh2vfMRHmpn7h0",
+      "declared_size": "3",
+      "included": true,
+      "verification": "RECORD digest and size match"
+    }
+  ]
+}
