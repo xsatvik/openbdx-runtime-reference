@@ -1,0 +1,15 @@
+# Generated code caches and runtime/build payloads
+__pycache__/
+*.py[cod]
+*.onnx
+*.whl
+*.hex
+*.deb
+*.tar.gz
+# Local credentials and operator-owned runtime state
+.env
+.env.local
+web_auth.json
+credentials.json
+*.pem
+*.key
